@@ -21,12 +21,14 @@ This is a reference implementation, not production-hardened.
 Example Jail JSON
 
 ,,,
+
 {
   "name": "testjail",
   "path": "/usr/jails/testjail",
   "ip": "192.168.1.50",
   "host_hostname": "testjail.local"
 }
+
 ,,,
 
 Example Requests
